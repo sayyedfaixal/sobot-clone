@@ -1,0 +1,20 @@
+.mainContainer{
+    margin-top: 7em;
+    height: 100vh;
+    padding: 100px;
+    background: #6fd8ad;
+}
+ul{
+    padding: 0%;
+    list-style-type: none;
+}
+.whatsappChatbotBlue{
+    color:#4fb6ec;
+}
+#getEarlyAccessButton{
+    background-color:#70c4f0;
+    margin-left: 10px;
+}
+.mainContainertext{
+    font-weight: 1000;
+}

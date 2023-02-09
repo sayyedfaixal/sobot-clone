@@ -1,0 +1,22 @@
+.mycustomgreen{
+    background-color: #103928;
+    height: 7em;
+}
+
+.brand{
+    color: white;
+}
+#navlinks{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+
+.navlinkMargin{
+    padding: 20px;
+}
+#loginButton{
+    background: transparent;
+}
+#loginButton:hover{
+    background-color: rgb(36, 184, 36);
+}
